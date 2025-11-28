@@ -1,34 +1,36 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hey, What's up? Ich bin Nil!
 
-###
+### 📍 Freiburg im Breisgau
 
-<p align="left">My name is Nil and I’m an entry-level software developer, focused on learning and growing in web development.💻<br><br>📍From Freiburg im Breisgau</p>
+Ich bin ein **Einsteiger-Softwareentwickler** mit vollem Fokus darauf, in der **Webentwicklung** zu lernen und zu wachsen. 💻
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🌟 Über Mich
 
-###
+* **Rolle:** Entry-Level Software Developer
+* **Hobbys:** Creating bugs since 2025 😉
+* **Aktueller Fokus:** Ich lerne gerade **JavaScript**.
+* **Zielsetzung:**
+    > **Meine Ein-Jahres-Mission:** Ich werde fundierte Kenntnisse in **HTML, CSS und JavaScript** aufbauen, indem ich Online-Kurse abschließe und mindestens drei persönliche Projekte (Portfolio-Website, Web-App, kleines Spiel) entwickle. Mein Ziel ist es, bis Ende des Jahres eine Vollzeitstelle im IT- oder Webentwicklungsbereich zu finden. 🚀
+* **Fun Fact:** Bin auf einer Mission, um Webentwicklung zu meistern und meinen ersten IT-Job zu landen!
 
-<p align="left">✨ Creating bugs since 2025<br><br>📚 I'm currently learning Javascript<br><br>🎯 Goals: Within one year, I will become proficient in HTML, CSS, and JavaScript by completing online courses and building at least three personal projects (such as a portfolio website, a web app, and a small game). I will also apply for IT or web development positions and secure a full-time job in the IT field by the end of the year<br><br>🎲 Fun fact: I’m on a one-year mission to master web development and land my first IT job.🚀</p>
+---
 
-###
+## 💻 Tech Stack & Tools
 
-<h2 align="left">I code with</h2>
+Ich code derzeit mit folgenden Technologien:
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS" title="AngularJS"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="FileZilla" title="FileZilla"/>
 </div>
-
-###
