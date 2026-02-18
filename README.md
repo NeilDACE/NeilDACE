@@ -35,4 +35,4 @@ Ich code derzeit mit folgenden Technologien:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="FileZilla" title="FileZilla"/>
 </div>
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NeilDACE&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeilDACE&layout=compact)
