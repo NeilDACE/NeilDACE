@@ -34,3 +34,5 @@ Ich code derzeit mit folgenden Technologien:
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="FileZilla" title="FileZilla"/>
 </div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeilDACE&show_icons=true)
