@@ -14,7 +14,7 @@ Ich bin ein **Einsteiger-Softwareentwickler** mit vollem Fokus darauf, in der **
 * **Zielsetzung:**
     > **Meine Ein-Jahres-Mission:** Ich werde fundierte Kenntnisse in **HTML, CSS und JavaScript** aufbauen, indem ich Online-Kurse abschließe und mindestens drei persönliche Projekte (Portfolio-Website, Web-App, kleines Spiel) entwickle. Mein Ziel ist es, bis Ende des Jahres eine Vollzeitstelle im IT- oder Webentwicklungsbereich zu finden. 🚀
 * **Fun Fact:** Bin auf einer Mission, um Webentwicklung zu meistern und in meinen ersten IT-Job zu landen!
-
+* **Mein Portfolio:** https//www.nil-vollhardt.de
 ---
 
 ## 💻 Tech Stack & Tools
