@@ -46,7 +46,7 @@ Ich code derzeit mit folgenden Technologien:
 </div>
 
 
-<div align="center" padding-top="32px">
+<div align="center" margin-top="32">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeilDACE&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
