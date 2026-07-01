@@ -44,9 +44,8 @@ Ich code derzeit mit folgenden Technologien:
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="FileZilla" title="FileZilla"/>
 </div>
-
-
-<div align="center" margin-top="32">
+<br />
+<div align="center">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeilDACE&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
